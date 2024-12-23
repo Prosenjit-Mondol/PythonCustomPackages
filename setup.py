@@ -15,6 +15,6 @@ setup(
         "Operating System :: OS Inddependent",
     ],
     install_requires=["click","pytz"],
-    entry_points={"console_scripts": ["prosen = src.main:main"]},
+    entry_points={"console_scripts": ["prosen = src.main:main"],},
 
 )
